@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgallodesign
 - 👀 I’m interested in graphic design, writing, narrative and illustration.
 - 🌱 I’m currently learning how to code!
-- 💞️ I’m looking to expand my knowledge ans skills.
+- 💞️ I’m looking to expand my knowledge and skills.
 - 📫 How to reach me: martinagallo.design@gmail.com
 
 <!---
